@@ -63,7 +63,7 @@ Sample Input:
 Sample Output: 
 40
 
-### Password Validation 
+### [Password Validation](https://github.com/martin-kerr/sololearn-code-coach-challenges/tree/main/hard/password-validation.py)
 
 You're interviewing to join a security team. They want to see you build a password evaluator for your technical interview to validate the input.
 
